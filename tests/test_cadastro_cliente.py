@@ -24,3 +24,4 @@ def test_cliente_com_email_invalido():
 	cadastro_cliente = CadastroCliente()
 	resposta = cadastro_cliente.cadastrar_cliente(cliente)
 	assert resposta == "Cliente com email invalido. Não cadastrado"
+	
