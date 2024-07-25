@@ -1,3 +1,4 @@
 - idade para cadastro deve ser no mínimo 18 anos
 - email deve conter @
 - nome deve conter mais do que 3 caracteres
+- idade deve ser numérica
