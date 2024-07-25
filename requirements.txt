@@ -1,0 +1,9 @@
+colorama  0.4.6
+iniconfig 2.0.0
+mslex     1.2.0
+packaging 24.1
+pluggy    1.5.0
+psutil    5.9.8
+pytest    8.3.1
+taskipy   1.13.0
+tomli     2.0.1
